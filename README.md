@@ -1,3 +1,2 @@
 # MachineLearningtrial
-## Sruthi
-### Sruthi
+![image.png](images/HRTalent.png)
