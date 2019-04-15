@@ -1,3 +1,3 @@
 # MachineLearningtrial
-##Sruthi
-###Sruthi
+## Sruthi
+### Sruthi
